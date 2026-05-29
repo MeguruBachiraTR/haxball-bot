@@ -1,0 +1,8 @@
+{
+  "name": "haxball-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "puppeteer": "^22.10.0"
+  }
+}
